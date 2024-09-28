@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⚡ About Me:
 🔭 Full Stack || Data Analytics || Data Engineering<br>👯 I’m looking for internship<br>🌱 I’m currently Working with AZURE | AWS | MERN Stack<br>💬 currently pursuing B.TECH - Artifical intelligence & Data science<br>⚡ Mail : sharankk2310@gmail.com
 
 

@@ -1,5 +1,5 @@
 # ⚡ About Me:
-🔭 Full Stack || Data Analytics || Data Engineering<br>🌱 AZURE | AWS | MERN Stack<br>💬 currently pursuing B.TECH - Artifical intelligence & Data science<br>⚡ Mail : sharankk2310@gmail.com
+🔭 MERN Stack || Data Analytics || Data Engineering<br>💬 currently pursuing B.TECH - Artifical intelligence & Data science<br>⚡ Mail : sharankk2310@gmail.com
 
 
 ## 🌐 Socials:
